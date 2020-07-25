@@ -17,7 +17,6 @@ _Please complete all applicable._
 - **Short Project Description**: _One line crisp description of your project_
 - **Team Name**:
 - **Team Members** : _Mention their Names & tag their GitHub handles_
-- **Demo Link** : _(if any, this might contain a website/ mobile application link/ short video, etc.)_
 - **Repository Link** : _Provide us the link to your code_
 - **Prototype Link** : _Provide us the link to your prototype_
 
